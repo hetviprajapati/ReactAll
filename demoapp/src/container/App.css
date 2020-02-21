@@ -1,0 +1,33 @@
+.FormDemo{
+  padding-top: 100px; 
+}
+table{
+ border:solid 2px ; 
+ padding: 20px;
+}
+.fetchDemo{
+  margin-top: 40px;
+}
+table,td,div{
+ padding: 10px;
+}
+
+th{
+  background-color: skyblue;
+}
+.ColorValidation{
+  color: red;
+}
+.btn{
+  padding: 5px;
+  margin-right: 5px;
+  font-size: 14px;
+}
+.header {
+  margin-top: 10px;
+  padding: 5px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size: 20px;
+}
